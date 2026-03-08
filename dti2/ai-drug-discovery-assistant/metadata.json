@@ -1,0 +1,5 @@
+{
+  "name": "AI Drug Discovery Assistant",
+  "description": "AI-powered protein–drug interaction prediction dashboard for discovering novel therapeutic candidates.",
+  "requestFramePermissions": []
+}
